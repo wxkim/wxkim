@@ -10,7 +10,7 @@
 
 ### i know
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ansys,assembly,bash,bsd,cuda,circleci,cmake,codeblocks,cpp,c,docker,golang,git,latex,linux,matlab,markdown,opencv,overleaf,qemu,qt,raspberrypi,rust,vim,,&titles=true&perline=6) 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ansys,assembly,bash,bsd,cuda,circleci,cmake,codeblocks,cpp,c,docker,golang,git,latex,linux,matlab,markdown,opencv,overleaf,qemu,qt,raspberrypi,rust,vim&perline=6) 
 ### my current env
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=apple,clion,bash,zen,arch,kitty,hyprland,firefox,windows,powershell,vscode,brave&titles=true&perline=4)
