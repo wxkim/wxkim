@@ -6,11 +6,12 @@
 
 ### my top languages
 
-![Top Langs](https://github-readme-stats-mauve-theta.vercel.app/api/top-langs/?username=wxkim&size_weight=0.5&count_weight=0.5&show_icons=true&theme=transparent&langs_count=8&layout=donut)
+![Top Langs](https://github-readme-stats-mauve-theta.vercel.app/api/top-langs/?username=wxkim&size_weight=0.25&count_weight=0.75&show_icons=true&theme=transparent&langs_count=8&layout=pie&hide=makefile,linker%20script,cmake&count_private=true
+)
 
 ### i know
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ansys,assembly,bash,bsd,cuda,circleci,cmake,codeblocks,cpp,c,docker,golang,git,latex,linux,matlab,markdown,opencv,overleaf,qemu,qt,raspberrypi,rust,vim&perline=6) 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ansys,assembly,bash,bsd,cuda,circleci,cmake,cpp,c,docker,golang,git,latex,linux,opencv,qemu,qt,rust&perline=9) 
 ### my current env
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=apple,clion,bash,zen,arch,kitty,hyprland,firefox,windows,powershell,vscode,brave&titles=true&perline=4)
